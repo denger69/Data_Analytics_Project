@@ -53,7 +53,7 @@ I first used Power Query to extract the original data (data_salary_all.xlsx) and
 
 ### **Transform**
 
-Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
+I transformed each query by adjusting column types, removing irrelevant columns, cleaning text to remove specific words, and trimming extra whitespace.
 
 **📊 data_jobs_all**
 
@@ -61,4 +61,16 @@ Then, I transformed each query by changing column types, removing unnecessary co
 
 **🛠️ data_job_skills**
 
+<img width="243" height="328" alt="image" src="https://github.com/user-attachments/assets/1f3d4984-1ae6-4e09-9bf5-2b5fab630535" />
 
+### **🔗 Load**
+
+Finally, I imported both transformed queries into the workbook, laying the groundwork for my upcoming analysis.
+
+**📊 data_jobs_all**
+
+2_Project_Analysis_Screenshot3.png
+
+**🛠️ data_job_skills**
+
+2_Project_Analysis_Screenshot4.png
