@@ -1,10 +1,10 @@
 # Data_Analytics_Project
 My first Excel dashboard project showcasing data science salary trends, built using advanced Excel techniques like dynamic charts, PivotTables, slicers, and structured formulas to explore skill correlations and job insights.
 
-#**Salary Dashboard**
+**Salary Dashboard**
 <img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/45eb1411-c65c-4a06-81c8-478528e62dd3" />
 
-**Introduction**
+## **Introduction**
 This salary dashboard for data jobs helps job seekers explore salaries for their preferred roles and secure fair compensation. It offers detailed insights into job titles, salaries, locations, and essential skills, all displayed in a clear and user-friendly format.
 
 **Dashboard File**
@@ -12,11 +12,11 @@ This salary dashboard for data jobs helps job seekers explore salaries for their
 [View Dashboard](Project_1-Dashboard)
 
 
-**Excel skills used for the analysis include charts, formulas and functions, data validation, and conditional formatting.**
+Excel skills used for the analysis include charts, formulas and functions, data validation, and conditional formatting.
 
 **Data Jobs Dataset**
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset for this project features real-world data science job information from 2023, serving as a solid foundation for data analysis using Excel. It includes comprehensive details on various aspects such as:-
 
 👨‍💼 Job titles
 
@@ -26,8 +26,8 @@ The dataset used for this project contains real-world data science job informati
 
 🛠️ Skills
 
-**📊 Dashboard Build Overview**
-**1. Charts**
+## **📊 Dashboard Build Overview**
+### **1. Charts**
 
 **📉 Data Science Job Salaries – Bar Chart**
 
@@ -51,7 +51,7 @@ The dataset used for this project contains real-world data science job informati
 
 **Insights Gained:** Highlights high/low salary regions around the world
 
-**2. Formulas & Functions**
+### **2. Formulas & Functions**
 
 **💰 Median Salary by Job Titles**
 
@@ -72,12 +72,12 @@ IF(
 
 **Purpose:** Returns salary insights tailored by region, title, and job type
 
-**3. Job Schedule Type Filter**
+### **3. Job Schedule Type Filter**
 
 **Unique List Generation:** Filters out compound and empty values
 
 **Purpose:** Populates background table with unique job schedule types
-**4. Enhanced Data Validation**
+### **4. Enhanced Data Validation**
 
 **Filtered List Implementation:** Applied via Data Validation for Job Title, Country, and Type
 
@@ -89,6 +89,6 @@ IF(
 
 👥 Improves dashboard usability
 
-**Conclusion**
+## **Conclusion**
 
 This dashboard offers a clear, interactive view of salary trends across job roles and countries. By blending charts, smart formulas, and validation, it makes complex insights accessible—helping users quickly identify high-paying roles and regions while exploring how schedule type impacts compensation.
