@@ -69,8 +69,10 @@ Finally, I imported both transformed queries into the workbook, laying the groun
 
 **📊 data_jobs_all**
 
-2_Project_Analysis_Screenshot3.png
+<img width="1916" height="649" alt="image" src="https://github.com/user-attachments/assets/61a91730-e1d4-4504-b177-e4a36d4422c3" />
+
+
 
 **🛠️ data_job_skills**
 
-2_Project_Analysis_Screenshot4.png
+
