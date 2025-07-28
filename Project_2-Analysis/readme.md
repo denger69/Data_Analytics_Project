@@ -39,7 +39,7 @@ The dataset used for this project consists of real-world data science job inform
 📍 Locations
 🛠️ Skills
 
-### 1️⃣ Do more skills get you better pay
+# 1️⃣ Do more skills get you better pay
 
 ## 🔍 Skill: Power Query (ETL)
 
@@ -84,4 +84,79 @@ Finally, I imported both transformed queries into the workbook, laying the groun
 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like **Senior Data Engineer** and **Data Scientist**.
 
 💼 Roles that require fewer skills, such as **Business Analyst**, tend to offer lower salaries—suggesting that more specialized skill sets command higher market value.
+
+<img width="874" height="537" alt="image" src="https://github.com/user-attachments/assets/237efc6c-2977-45c9-8b31-be670b8c357d" />
+
+### 🧠 So What?
+
+This trend reinforces the importance of continuously expanding your skill set—especially if you're aiming for roles with higher compensation and influence in the data space.
+
+# 2️⃣ What’s the salary for data jobs in different regions?
+
+## 🧮 Skills: PivotTables & DAX
+
+## 📈 Pivot Table Analysis
+
+🔢 **PivotTable Creation:**  
+Built using the Data Model from **Power Pivot** to enable deeper analysis.
+
+📊 **Configuration:**  
+- **Rows Area:** `job_title_short`  
+- **Values Area:** `salary_year_avg`
+
+🧮 **Calculated Measure for India:**  
+Used DAX to compute the median salary for jobs located in India:
+
+DAX
+
+=CALCULATE(
+    MEDIAN(data_jobs_all[salary_year_avg]),
+    data_jobs_all[job_country] = "India"
+)
+
+**🧠 DAX Formula for Overall Median Salary:**
+
+Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
+
+# 3️⃣ What Are the Top Skills of Data Professionals?
+
+🔧 **Skill Spotlight:** Power Pivot  
+
+💪 **Why Power Pivot Matters:**  
+
+Enabled creation of a unified data model by integrating `data_jobs_all` and `data_jobs_skills`.
+
+🔗 **Data Model Construction:**  
+
+- Used **Power Query** for initial data cleaning
+  
+- Established relationships between tables using `job_id` as the key
+  
+- Power Pivot automatically connected the tables for efficient analysis
+
+📃 **Power Pivot Menu Tools:**  
+
+Refined the model and created DAX measures with ease  
+
+
+
+📊 **Analysis & Insights**  
+
+💻 **Dominant Tools:**  
+
+- **SQL** and **Python** emerged as top skills in job listings
+
+- These skills play a foundational role in most data workflows
+
+☁️ **Emerging Technologies:**  
+
+- Cloud platforms like **AWS** and **Azure** show rising demand  
+- Reflects shift toward big data and scalable infrastructure
+
+![Skill Analysis Chart](2_Project_Analysis_Chart3.png)
+
+🤔 **So What?**  
+Identifying dominant and emerging skills helps:
+- Professionals stay competitive in evolving job markets  
+- Educators focus curriculum on high-impact tools
 
