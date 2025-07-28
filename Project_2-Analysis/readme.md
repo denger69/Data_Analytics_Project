@@ -181,19 +181,24 @@ Used a **Combo PivotChart** to explore how skill demand correlates with median s
 - Added axis titles for clarity
   
 - Removed line connectors for skill likelihood
-- 
+  
 - Changed markers to **diamonds** for visual distinction
 
+<img width="862" height="452" alt="image" src="https://github.com/user-attachments/assets/8594bc42-00c3-4624-9178-6724b389cc5c" />
 
 
 📊 **Analysis & Insights:**
 
 💰 **High-Paying Skills:**
-- **Python**, **Oracle**, and **SQL** are linked to higher median salaries  
+
+- **Python**, **Oracle**, and **SQL** are linked to higher median salaries
+  
 - Indicate strong market value and technical depth
 
 📉 **Low-Paying Skills:**
-- **PowerPoint** and **Word** show lowest salary and likelihood  
+
+- **PowerPoint** and **Word** show lowest salary and likelihood
+  
 - Suggest lower specialization and less relevance in data-focused roles
 
 🤔 **So What?**
