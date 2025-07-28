@@ -56,3 +56,9 @@ I first used Power Query to extract the original data (data_salary_all.xlsx) and
 Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
 
 **📊 data_jobs_all**
+
+<img width="244" height="312" alt="image" src="https://github.com/user-attachments/assets/11e7fd1d-a64e-4d5c-9392-fc4e9da17868" />
+
+**🛠️ data_job_skills**
+
+
