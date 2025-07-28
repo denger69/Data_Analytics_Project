@@ -9,7 +9,7 @@ This salary dashboard for data jobs helps job seekers explore salaries for their
 
 **Dashboard File**
 
-[View Dashboard](Project_1-Dashboard/dashboard.xlsx)
+[View Dashboard](Project_1-Dashboard)
 
 
 **Excel skills used for the analysis include charts, formulas and functions, data validation, and conditional formatting.**
