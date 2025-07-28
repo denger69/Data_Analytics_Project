@@ -140,6 +140,7 @@ Enabled creation of a unified data model by integrating `data_jobs_all` and `dat
 
 Refined the model and created DAX measures with ease  
 
+<img width="1918" height="742" alt="image" src="https://github.com/user-attachments/assets/e93613cb-211c-4493-bf25-fee7de57aaba" />
 
 
 📊 **Analysis & Insights**  
@@ -155,7 +156,7 @@ Refined the model and created DAX measures with ease
 - Cloud platforms like **AWS** and **Azure** show rising demand  
 - Reflects shift toward big data and scalable infrastructure
 
-![Skill Analysis Chart](2_Project_Analysis_Chart3.png)
+
 
 🤔 **So What?**  
 Identifying dominant and emerging skills helps:
