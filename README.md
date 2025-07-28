@@ -8,7 +8,9 @@ My first Excel dashboard project showcasing data science salary trends, built us
 This salary dashboard for data jobs helps job seekers explore salaries for their preferred roles and secure fair compensation. It offers detailed insights into job titles, salaries, locations, and essential skills, all displayed in a clear and user-friendly format.
 
 **Dashboard File**
-()
+
+[View Dashboard](Project_1-Dashboard/dashboard.xlsx)
+
 
 **Excel skills used for the analysis include charts, formulas and functions, data validation, and conditional formatting.**
 
