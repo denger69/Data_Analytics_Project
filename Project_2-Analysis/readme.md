@@ -173,13 +173,13 @@ Identifying dominant and emerging skills helps:
 Used a **Combo PivotChart** to explore how skill demand correlates with median salary:
 
 - 🪙 **Primary Axis:** Median Salary (Clustered Column)
-- 
+  
 - 👍 **Secondary Axis:** Skill Likelihood (%) (Line with Diamond Markers)
 
 🎨 **Chart Customizations:**
 
 - Added axis titles for clarity
-- 
+  
 - Removed line connectors for skill likelihood
 - 
 - Changed markers to **diamonds** for visual distinction
