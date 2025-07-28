@@ -75,4 +75,13 @@ Finally, I imported both transformed queries into the workbook, laying the groun
 
 **🛠️ data_job_skills**
 
+<img width="1914" height="702" alt="image" src="https://github.com/user-attachments/assets/26d3d5e1-0cf9-4ff1-8690-7e2f117e9c72" />
+
+## 📊 Analysis
+
+### 💡 Insights
+
+📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like **Senior Data Engineer** and **Data Scientist**.
+
+💼 Roles that require fewer skills, such as **Business Analyst**, tend to offer lower salaries—suggesting that more specialized skill sets command higher market value.
 
