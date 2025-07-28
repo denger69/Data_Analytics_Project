@@ -134,6 +134,8 @@ Enabled creation of a unified data model by integrating `data_jobs_all` and `dat
   
 - Power Pivot automatically connected the tables for efficient analysis
 
+<img width="1788" height="1264" alt="image" src="https://github.com/user-attachments/assets/99e2f5a8-9fc8-4189-bb6f-9368f5b5b8f9" />
+
 📃 **Power Pivot Menu Tools:**  
 
 Refined the model and created DAX measures with ease  
