@@ -156,10 +156,48 @@ Refined the model and created DAX measures with ease
 - Cloud platforms like **AWS** and **Azure** show rising demand  
 - Reflects shift toward big data and scalable infrastructure
 
+<img width="759" height="513" alt="image" src="https://github.com/user-attachments/assets/acc23247-7afd-4009-901f-8fcb50c51834" />
 
 
 🤔 **So What?**  
 Identifying dominant and emerging skills helps:
 - Professionals stay competitive in evolving job markets  
 - Educators focus curriculum on high-impact tools
+
+# 4️⃣ What’s the Pay of the Top 10 Skills?
+
+📊 **Skill Focus:** Advanced Charts (PivotChart)  
+
+📈 **Visualization Technique:**  
+
+Used a **Combo PivotChart** to explore how skill demand correlates with median salary:
+
+- 🪙 **Primary Axis:** Median Salary (Clustered Column)
+- 
+- 👍 **Secondary Axis:** Skill Likelihood (%) (Line with Diamond Markers)
+
+🎨 **Chart Customizations:**
+
+- Added axis titles for clarity
+- 
+- Removed line connectors for skill likelihood
+- 
+- Changed markers to **diamonds** for visual distinction
+
+
+
+📊 **Analysis & Insights:**
+
+💰 **High-Paying Skills:**
+- **Python**, **Oracle**, and **SQL** are linked to higher median salaries  
+- Indicate strong market value and technical depth
+
+📉 **Low-Paying Skills:**
+- **PowerPoint** and **Word** show lowest salary and likelihood  
+- Suggest lower specialization and less relevance in data-focused roles
+
+🤔 **So What?**
+- Investing in in-demand skills like **Python** and **SQL** can significantly enhance earning potential  
+- Especially valuable for professionals aiming for high-paying roles in tech and analytics
+
 
