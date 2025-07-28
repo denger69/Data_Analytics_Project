@@ -205,4 +205,9 @@ Used a **Combo PivotChart** to explore how skill demand correlates with median s
 - Investing in in-demand skills like **Python** and **SQL** can significantly enhance earning potential  
 - Especially valuable for professionals aiming for high-paying roles in tech and analytics
 
+# 🧾 Conclusion
+
+This project offered a deep dive into the data science job market using Excel as a powerful analytics platform. Through skills like **Power Query**, **PivotTables**, **Power Pivot**, **DAX**, and **Advanced Charts**, I explored how job roles, skills, and geography influence salary dynamics. Key findings reveal that **technical depth** (e.g. Python, SQL, Oracle) and **cloud expertise** (AWS, Azure) correlate strongly with higher pay, while broader skills like Word or PowerPoint command less market value.
+
+Understanding these patterns equips professionals to make informed career decisions and helps educators prioritize training in high-impact skills. Excel proved more than capable as a tool for surfacing insights, telling a story, and guiding strategy—one PivotTable at a time.
 
